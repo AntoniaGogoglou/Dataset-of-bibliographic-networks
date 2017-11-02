@@ -6,3 +6,6 @@ The dataset is organized in network form, meaning that for an initial sample of 
 
 NOTE: in some folders the txt.bz2 is split into parts. You can put it back together with the following command:
 $ cat home.tar.bz2.parta* >backup.tar.gz.joined
+
+
+For a complete version of the dataset contact: agogoglou@csd.auth.gr
