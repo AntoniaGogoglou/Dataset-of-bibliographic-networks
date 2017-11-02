@@ -1,3 +1,0 @@
-This folder contains the Citation Network data for each of the core scientists. There is a file for each year in the time period 1980-2013. 
-Each line's first element is the core author ID followed by a list of scientists citing this author up until the particular year listed in the 
-title of the file.
